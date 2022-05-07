@@ -95,7 +95,7 @@
 .Hotels .otel .container .all .card {
     margin: 0 18px 16px 0;
     display: flex;
-    width: 550px;
+    width: 447px;
     padding: 0 0 16px 0;
 }
 
@@ -258,6 +258,7 @@
     color: var(--third-color);
     line-height: 2.6;
     margin-bottom: 10px;
+    padding-top: 0px;
 }
 
 .problem .container .right .q:hover {
